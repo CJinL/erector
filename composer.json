@@ -1,0 +1,11 @@
+{
+    "name": "chen/erector",
+    "description": "application installer.",
+    "authors": [
+        {
+            "name": "陈金龙",
+            "email": "heihouzi93@sina.cn"
+        }
+    ],
+    "require": {}
+}
